@@ -379,7 +379,7 @@ The ER Model includes relationships between:
 * Users and Notifications
 
 
-<image src="images\mermaid-diagram.jpg">
+<img src="images/mermaid-diagram.jpg" alt="ER Diagram">
 ---
 
 # 7. Future Enhancements
