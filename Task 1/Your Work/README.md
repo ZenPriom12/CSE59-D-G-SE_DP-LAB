@@ -377,7 +377,7 @@ The ER Model includes relationships between:
 * Categories and Books
 * Borrow Records and Fines
 * Users and Notifications
-
+ < image src="images\mermaid-diagram.jpg">
 ---
 
 # 7. Future Enhancements
